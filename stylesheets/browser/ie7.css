@@ -1,0 +1,26 @@
+/* ie7 */
+	
+	/*header*/
+	body.global-extranet #menu li {font-size: 155%;}
+	body.global-extranet #menu li a {min-width: 132px;}
+	
+	
+	/*footer*/
+	.footer-nav ul li {zoom: 1; display: inline;}
+	.nav-adresse li {zoom: 1; display: inline; margin: 0 0 0 5px;}
+	
+	
+	#extraFooterContent ul li {list-style: none outside; padding:0; margin:0;}
+	
+	/*formulaires*/
+	.form-fields legend {margin: 0 0 0 -8px!important;}
+	
+	
+	/*fiche*/
+	#fiche-resume-ASS-MATT .carousel-control.left,
+	#fiche-resume-ASS-MATT .carousel-control.right {
+	    filter : alpha(opacity=100);
+	    opacity : 1;
+	  }
+	
+	
